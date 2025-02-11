@@ -108,7 +108,7 @@ color: #fff;
 }
 .navbar {
 margin-bottom: 0;
-background-color: #4494c9;
+background-color: #ec67b9;
 z-index: 9999;
 border: 0;
 font-size: 12px !important;
@@ -121,7 +121,7 @@ font-family: Montserrat, sans-serif;
 color: #fff !important;
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
-color: #649aeb !important;
+color: #bd5ec0 !important;
 background-color: #fff !important;
 }
 .navbar-default .navbar-toggle {
